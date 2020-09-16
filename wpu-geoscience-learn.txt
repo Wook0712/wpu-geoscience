@@ -1,6 +1,8 @@
 RENCANA LEARN GEOSCIENCE
 
 - python
+  * penguasaan dasar-dasar python
+  * membuat rencana data sains menggunakan python
 - qgis 
 - arcgis
 - git github
