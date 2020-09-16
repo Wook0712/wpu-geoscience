@@ -8,3 +8,4 @@ RENCANA LEARN GEOSCIENCE
 - git github
 - javascript
 - learn & studying english
+- learn mandarin language
