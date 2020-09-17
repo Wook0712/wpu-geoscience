@@ -3,9 +3,13 @@ RENCANA LEARN GEOSCIENCE
 - python
   * penguasaan dasar-dasar python
   * membuat rencana data sains menggunakan python
-- qgis 
+- qgis
+  * membuat peta topografi dan peta 3D
 - arcgis
+  * membuat peta geologi dan potografi
 - git github
+  * membuat program dan meringankan jika ada tugas laporan 
+  * menguasai app git
 - javascript
 - learn & studying english
 - learn mandarin language
