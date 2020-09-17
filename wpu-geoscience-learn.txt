@@ -9,6 +9,7 @@ RENCANA LEARN GEOSCIENCE
   * membuat peta geologi dan potografi
 - git github
   * membuat program dan meringankan jika ada tugas laporan 
+  * menguasai app git
 - javascript
 - learn & studying english
 - learn mandarin language
